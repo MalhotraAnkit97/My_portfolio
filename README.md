@@ -8,7 +8,7 @@
 
 # Run On Your Machine?
   1. Firstly, clone the repository using the git shell 
-      - $ git clone https://github.com/mehulk05/My-Personal-Portfolio.git
+      - $ git clone 
   2. Goto the base directory of the project 
      - cd portfolio 
   3. Create a virtual environment and activate it. 
